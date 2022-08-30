@@ -14,7 +14,7 @@ We want to attach EM sonifiers to lamp posts and use the lamp posts as sounding 
 
 ![Berlin lights from space](images/berlin-from-satellite.jpeg)
 
-Photo from space showing how East + West Berlin look different from space.
+Photo showing how East + West Berlin look different from space [(Chris Hadfield, 2013)](https://twitter.com/cmdr_hadfield/status/324638635766980608?lang=en).
 
 ![Berlin OSM streetlamps](images/berlin-osm-streetlamps.png)
 
@@ -22,7 +22,7 @@ A composite stitched together from screenshots from [http://osmstreetlight.bplac
 
 ![Favorite Berlin streetlamps](images/Spandau_Am_Oberhafen.jpeg)
 
-Benny's favorite Berlin lamp posts that hug the streets.
+Benny's favorite Berlin lamp posts that hug the streets [(wikipedia: Category:Street lights in Berlin-Spandau)](https://commons.wikimedia.org/wiki/Category:Street_lights_in_Berlin-Spandau).
 
 ![Spectrum scan](images/spectrum-scan-860-930MHz.png)
 
